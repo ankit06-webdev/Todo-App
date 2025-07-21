@@ -16,7 +16,7 @@ A simple yet elegant personal Todo App built with **React** and **Tailwind CSS**
 
 ## 📸 Screenshots
 
-> _Add your screenshots here if available_
+(image.png)
 
 ---
 
